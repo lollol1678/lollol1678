@@ -1,4 +1,10 @@
-### Hi there 👋
+### *Hi there 👋*
+#### ~~😄 Nice to meet you 😄~~
+<hr/>
+
+<br/><br/> 신수민입니다 <br/>감사합니다
+
+
 
 <!--
 **lollol1678/lollol1678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
